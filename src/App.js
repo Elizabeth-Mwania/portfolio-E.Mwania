@@ -22,7 +22,7 @@ function App() {
                 <NavBar />
                 <Container sx={{ flex: 1, py: 3 }}>
                     <Routes>
-                        <Route path="/portfolio" exact element={<Home />} />
+                        <Route path="/" exact element={<Home />} />
                         <Route path="/projects" exact element={<Projects />} />
                         <Route path="/skills" exact element={<Skills />} />
                         <Route path="/education" exact element={<Education />} />

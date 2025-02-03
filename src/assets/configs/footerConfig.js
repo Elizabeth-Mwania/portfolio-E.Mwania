@@ -9,14 +9,14 @@ const footerConfig = {
             url: "https://github.com/Elizabeth-Mwania",
             className: "social-icon",
             target: "_blank",
-            icon: <AiFillGithub size={50}/>
+            icon: <AiFillGithub size={30}/>
         },
         {
             id: "footer-1",
             url: "https://www.linkedin.com/in/elizabethmwania/",
             className: "social-icon",
             target: "_blank",
-            icon: <FaLinkedinIn size={50}/>
+            icon: <FaLinkedinIn size={30}/>
         }
     ]
 }
